@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'MinecraftSolid';
+  src: url('./assets/fonts/MinecraftFifty-Solid.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Monocraft';
+  src: url('./assets/fonts/Monocraft.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Minercraftory';
+  src: url('./assets/fonts/Minercraftory.otf') format('truetype');
+}
